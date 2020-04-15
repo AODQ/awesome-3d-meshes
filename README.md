@@ -29,4 +29,4 @@
 
 ##### Contributions
 
-Don't hesitate to contribute, feel free to use [issues](https://github.com/java-opengl-labs/awesome-3d-meshes/issues)
+Don't hesitate to contribute, feel free to use [issues](https://github.com/aodq/awesome-3d-meshes/issues)
