@@ -1,3 +1,6 @@
+(Fork of jvm-graphics-labs/awesome-3d-meshes , made to fix filenames under linux)
+
+
 # Collection of free 3d meshes
 
 - [McGuire Computer Graphics Archive](https://github.com/java-opengl-labs/awesome-3d-meshes/tree/master/McGuire)
