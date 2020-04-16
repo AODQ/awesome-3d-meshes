@@ -1,5 +1,7 @@
 (Fork of jvm-graphics-labs/awesome-3d-meshes , made to fix filenames under linux)
 
+Run extraction.sh to automatically extract all resources
+
 
 # Collection of free 3d meshes
 
