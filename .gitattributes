@@ -1,0 +1,8 @@
+mcguire/clouds.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/conference-room.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/cornell-box.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/sponza-crytek.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/bedroom.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/bmw.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/breakfast-room.tar.gz filter=lfs diff=lfs merge=lfs -text
+mcguire/chinese-dragon.tar.gz filter=lfs diff=lfs merge=lfs -text
